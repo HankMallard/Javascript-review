@@ -13,9 +13,6 @@
   console.log(myName);
 
   printMyName();
-
-  window.printMyName = printMyName;
-  // Pass function as an argument
-  // Attach function to window
+  
 
 }())

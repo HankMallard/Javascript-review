@@ -1,6 +1,5 @@
 (function () {
   
-  // Create and array of closures
-  // Do this as an exercise
+  // Create an array of closures and call them in a loop
 
 }())
